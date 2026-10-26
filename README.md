@@ -32,10 +32,10 @@ Berikut adalah kredensial akun yang dapat digunakan untuk masuk ke dalam aplikas
 * Halaman Utama
   <img width="945" height="445" alt="Halaman Utama" src="https://github.com/user-attachments/assets/7096658c-5863-4658-af6e-c546f4e5d667" />
 
-*Transaksi Stok
+* Transaksi Stok
 <img width="952" height="439" alt="Transaksi Stok" src="https://github.com/user-attachments/assets/e4ea591e-0f03-4cc3-923c-83443c4dd0e6" />
 
-*Laporan Transaksi
+* Laporan Transaksi
 <img width="947" height="436" alt="Transaksi" src="https://github.com/user-attachments/assets/044e454d-7fce-4029-97bb-a16089697bb3" />
 
 
