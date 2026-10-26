@@ -35,6 +35,7 @@ Berikut adalah kredensial akun yang dapat digunakan untuk masuk ke dalam aplikas
 * Transaksi Stok
 <img width="952" height="439" alt="Transaksi Stok" src="https://github.com/user-attachments/assets/e4ea591e-0f03-4cc3-923c-83443c4dd0e6" />
 
+
 * Laporan Transaksi
 <img width="947" height="436" alt="Transaksi" src="https://github.com/user-attachments/assets/044e454d-7fce-4029-97bb-a16089697bb3" />
 
